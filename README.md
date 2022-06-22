@@ -1,4 +1,4 @@
-# 5.hafta.salı-çarşamba ödevi (21.06.2022)-(21.06.2022)
+# 5.hafta salı-çarşamba ödevi (21.06.2022)-(21.06.2022)
 1) Klavye.close(); nedir?
 2) Random/Class Random nedir?
 3) valueOf(), toString(), parseInt() aralarındaki farklar nelerdir?
