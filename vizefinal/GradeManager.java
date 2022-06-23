@@ -9,9 +9,7 @@ public class GradeManager {
         int midtermExam = scan.nextInt();
         System.out.println("Enter final exam");
         int finalExam = scan.nextInt();
-        double note1 = (midtermExam * 40) / 100;
-        double note2 = (finalExam * 60) / 100;
-        double average = note1 + note2;
+        double average = midtermExam*0.4+finalExam*0.6;
 
         if (average >= 84 && average <= 100) {
             System.out.println(average + ": AA");
